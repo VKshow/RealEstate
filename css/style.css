@@ -1,0 +1,16 @@
+/* PREVENT DEFAULT STYLES */
+@import 'normalize.css';
+
+/* FONTS */
+@import url('https://fonts.googleapis.com/css2?family=Lexend:wght@400;500;600;700&display=swap');
+
+
+
+/* slider */
+
+@import "slick-theme.css";
+@import "slick.css";
+@import "slickstyle.css";
+
+/* GENERAL STYLES */
+@import 'general.css';
