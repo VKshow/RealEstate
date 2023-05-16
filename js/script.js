@@ -59,6 +59,6 @@ leftButton.addEventListener('click', slidePrev);
 rightButton.addEventListener('click', slideNext);
 
 
-// slider 3------------------------------------------------------
+
 
 
